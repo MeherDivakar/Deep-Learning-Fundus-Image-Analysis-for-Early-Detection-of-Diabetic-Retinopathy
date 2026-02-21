@@ -1,0 +1,2 @@
+kaggle dataset link used for model building:(archive)
+https://www.kaggle.com/datasets/dankok/diabetic-retinopathy-image-dataset
